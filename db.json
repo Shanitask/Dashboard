@@ -1,0 +1,27 @@
+{
+  "registration": [
+    {
+      "name": "",
+      "email": "",
+      "username": "",
+      "password": "",
+      "id": "1"
+    },
+    {
+      "id": "481a",
+      "name": "shanita",
+      "email": "shanita@gmail.com",
+      "username": "shanitak",
+      "password": "shanita345678"
+    }
+  ],
+  "Home": [
+    {
+      "name": "shanita kalamkar",
+      "email": "shanita@gmail.com",
+      "number": "787877798",
+      "city": "mumbai",
+      "id": "2"
+    }
+  ]
+}
